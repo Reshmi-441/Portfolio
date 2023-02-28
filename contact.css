@@ -1,0 +1,22 @@
+
+body{
+    display: block;
+    justify-content: center;
+    align-items: center;
+    margin-top: 50px;
+    overflow: hidden;
+    background-color: rgb(126, 172, 172);
+}
+.map{
+    justify-content: center;
+    margin-left: 45%;
+    overflow: hidden;
+    
+  }
+  .forms{
+    justify-content: center;
+    margin-left: 10%;
+    margin-top: 10%;
+    margin-right: 50%;
+  }
+  

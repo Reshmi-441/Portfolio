@@ -1,23 +1,11 @@
-* {
 
-    margin: 0px;
-  
-    padding: 0px;
-  
-    box-sizing: border-box;
-  
-  }
   
   .body-text {
   
     display: flex;
-  
     font-family: "Montserrat", sans-serif;
-  
     align-items: left;
-  
     justify-content: center;
-  
     margin-top: 250px;
   
   }
@@ -25,15 +13,10 @@
   nav {
   
     display: flex;
-  
     justify-content: space-around;
-  
     align-items: center;
-  
     min-height: 8vh;
-  
     background-color: teal;
-  
     font-family: "Montserrat", sans-serif;
   
   }
@@ -41,21 +24,18 @@
   .heading {
   
     color: rgb(15, 14, 14);
-  
     text-transform: uppercase;
-  
     letter-spacing: 5px;
-  
     font-size: 20px;
-  
+    align-content: center;
+    margin-left:35% ;
+    margin-top: 25%;
   }
   
-  .links {
+  .nav-links {
   
     display: flex;
-  
     justify-content: space-around;
-  
     width: 30%;
   
   }
@@ -68,16 +48,11 @@
   
   .nav-links a {
   
-    color: rgb(138, 84, 150);
-  
+    color: rgb(12, 11, 12);
     text-decoration: none;
-  
     letter-spacing: 3px;
-  
     font-weight: bold;
-  
     font-size: 14px;
-  
     padding: 14px 16px;
   
   }
@@ -93,21 +68,9 @@
     background-color: #55aeb0;
   
   }
-  .image{
-
-    margin-top: 250px;
-    margin-left: 250px;
-    margin-right: 250px;
-    
-  }
   .text{
     margin-top: 1px;
     margin-left: 500px;
 
   }
-  .about{
-    font-family: Arial, Helvetica, sans-serif;
-    font-size: medium;
-    margin-top: auto;
-    margin-left: 250px;
-  }
+ 
